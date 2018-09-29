@@ -12,7 +12,7 @@
 export default {
   name: 'SearchBar',
   props: {
-    msg: String
+    search: String
   }
 }
 </script>
