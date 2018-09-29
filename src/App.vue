@@ -12,6 +12,8 @@
   </div>
 </template>
 
+
+
 <script>
 import ItemsList from './components/items_list.vue'
 import Axios from 'axios'
