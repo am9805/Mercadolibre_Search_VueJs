@@ -28,7 +28,6 @@ export default {
     }
   },
   components: {
-    SearchBar,
     ItemsList
   },
    mounted () {
