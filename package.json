@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "axios": "^0.18.0",
+    "heroku": "^7.16.0",
     "vue": "^2.5.17"
   },
   "devDependencies": {
